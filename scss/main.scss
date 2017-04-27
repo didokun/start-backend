@@ -1,0 +1,16 @@
+/** Mixins */
+@import "mixins";
+
+/** General theme */
+@import "variables.scss";
+@import "global.scss";
+@import "cards.scss";
+
+/** Components **/
+@import "./components/_buttons.scss";
+@import "./components/_checkboxes.scss";
+
+/** Sections **/
+@import "navbar.scss";
+
+

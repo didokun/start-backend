@@ -1,0 +1,50 @@
+{
+  "title": "Start BackEnd",
+  "name": "didokun-start-backend",
+  "version": "4.0.0-alpha",
+  "description": "Start admin template bootstrap",
+  "keywords": [
+    "css",
+    "bootstrap",
+    "bootstrap 4",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template",
+    "admin",
+    "app"
+  ],
+  "homepage": "http://startbootstrap.com/template-overviews/sb-admin",
+  "bugs": {
+    "url": "https://github.com/didokun/start-backend/issues",
+    "email": "charafi.adil@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Start BackEnd",
+  "contributors": [
+    "Echcharafi Adil"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/didokun/start-backend.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "chart.js": "^2.5.0",
+    "datatables.net-bs4": "^1.10.13",
+    "font-awesome": "4.7.0",
+    "jquery": "^3.2.1",
+    "tether": "^1.4.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-header": "1.8.8",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}

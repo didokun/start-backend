@@ -7,10 +7,14 @@
 @import "cards.scss";
 
 /** Components **/
-@import "./components/_buttons.scss";
-@import "./components/_checkboxes.scss";
+@import "./components/buttons.scss";
+@import "./components/checkboxes.scss";
 
 /** Sections **/
 @import "navbar.scss";
 
 
+/** Pages **/
+@import "./pages/charts.scss";
+@import "./pages/forms.scss";
+@import "./pages/tables.scss";

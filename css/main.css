@@ -488,3 +488,5 @@ input[type="radio"] .styled:checked + label::after {
         text-align: center; }
     #mainNav .navbar-collapse .navbar-nav > .nav-item.dropdown .dropdown-menu > .dropdown-item > .dropdown-message {
       max-width: 300px; } }
+
+/** Pages **/
